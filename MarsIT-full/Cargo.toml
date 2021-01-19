@@ -1,0 +1,16 @@
+[package]
+name = "MarsIT-full"
+version = "0.1.0"
+authors = ["jochen.deprez <jochen.deprez@student.howest.be>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+rocket = "0.4.6"
+rocket_contrib = "0.4.6"
+jsonwebtoken = "7.2.0"
+serde = { version = "1.0", features = ["derive"] }
+serde_derive = "1.0.118"
+serde_json = "1.0.60"
+rocket_cors = "0.5.1"

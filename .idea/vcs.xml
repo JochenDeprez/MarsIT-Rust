@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/1-startproject" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/2-route_parameters" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/3-post_routes" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/4-custom_api_responder" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/5-jwt" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/6-cors" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/MarsIT-full" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/cors" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/custom_api_responder" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/jwt" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/post_routes" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/route_parameters" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/startproject" vcs="Git" />
+  </component>
+</project>
