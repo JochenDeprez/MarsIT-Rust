@@ -11,7 +11,7 @@ Tijdens de installatie moet je er zeker voor zorgen de je nightly kiest als stan
  - Typ in de zoekbalk: omgevingsvariabelen
  - klik op **Omgevingsvariabelen voor uw account bewerken**
  - dubbelklik dan op path en voeg het pad toe naar de **bin** folder in de
-   **.cargo** folder deze is standaard geïnstaleerd onder het pad **C:\Users\gebruiker\.cargo\bin**
+   **.cargo** folder deze is standaard geïnstaleerd onder het pad **C:\Users\gebruiker\\.cargo\bin**
  - Sla dit alles op en een herstart de machine om er voor te zorgen dat alle wijzigingen actief zijn
 
 ### - Zorg ook zeker voor dat de C++ build tools geïnstalleerd zijn op je machine
